@@ -1,9 +1,13 @@
-div {
+div{
     width: 600px;
     min-height: 300px;
     border: 3px solid black;
 }
-
+p{
+    background-color:black;
+    font-family:'Times New Roman', Times, serif;
+    color:white;
+}
 #img-div {
     display: none;
 }
